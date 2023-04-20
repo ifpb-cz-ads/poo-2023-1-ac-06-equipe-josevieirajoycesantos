@@ -1,4 +1,4 @@
-public class BMExercicio05 {
+public class TimeCampeoanato {
     private String nomeTime;
     private String nomeCampeonato;
     private int posicao; //posição em que o time se encotra na tabela do campeonato
